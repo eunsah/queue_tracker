@@ -1,3 +1,4 @@
 .vscode
 main.build/
 tracker.dat
+.DS_Store
